@@ -27,6 +27,7 @@ This C# based Shopping application is designed for three types of users: Owner, 
 
 **Database Setup**
 * Import the provided SQL schema file.
+* File name: **E-Shop.bacpac**
 
 **Open in Visual Studio**
 * Open the solution file in Visual Studio.
