@@ -7,7 +7,7 @@ namespace E_Shop.Database
 {
     public abstract class DatabaseConnection
     {
-        const string connectionString = @"Data Source=Fahad\SQLEXPRESS;Initial Catalog=E-Shop;Integrated Security=True";
+        const string connectionString = @"Your connection string";
         public static SqlConnection databaseConnect()
         {
             return new SqlConnection(connectionString);
