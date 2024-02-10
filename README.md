@@ -34,6 +34,7 @@ This C# based Shopping application is designed for three types of users: Owner, 
 
 **Configure Database Connection**
 * Update the database connection string in the code to match your MySQL server configuration.
+* Copy your connection string and replace it with "Your connection string" on "E-Shop/Database/DatabaseConnection.cs" file.
 
 **Build and Run**
 * Build and run the application.
