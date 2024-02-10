@@ -1,6 +1,6 @@
 # Shopping Application
 
-This C# based Shopping application is designed for three types of users: Owner, Employee, and Customers. The application uses MySQL as the database and GINA UI (version: 2.0.4.4) as the UI library, providing a modern and user-friendly interface.
+This C# based Shopping application is designed for three types of users: Owner, Employee, and Customers. The application uses MySQL as the database and GUNA UI (version: 2.0.4.4) as the UI library, providing a modern and user-friendly interface.
 
 ## App Screenshot
 <a href="https://ibb.co/fSSSVhn"><img src="https://i.ibb.co/hMMMxPZ/Screenshot-2024-01-02-222621.png" alt="Screenshot-2024-01-02-222621" border="0"></a>
@@ -21,7 +21,7 @@ This C# based Shopping application is designed for three types of users: Owner, 
   - The application utilizes MySQL to store and manage user data, product information, orders, and more.
 
 - **User Interface:**
-  - GINA UI (version: 2.0.4.4) is employed to create a sleek and modern user interface for a pleasant user experience.
+  - GUNA UI (version: 2.0.4.4) is employed to create a sleek and modern user interface for a pleasant user experience.
 
 ## Getting Started
 
@@ -50,6 +50,6 @@ Browses products, adds items to the cart, and places orders.
 Enjoys a seamless shopping experience.
 
 ## Dependencies
-* **GINA UI - Version 2.0.4.4**
+* **GUNA UI - Version 2.0.4.4**
 ## Important
 * **Note:** You don't have to install it, but if you hove got resolution or any other screen/icon issue, just install VictorMono, DankMono, JuliaMono, HackFont, RobotoFont, also you can set the resolution scale 150% and in 1080p resoltion it will provide accurate result because the application is not responsive.
