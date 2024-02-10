@@ -3,12 +3,15 @@
 This C# based Shopping application is designed for three types of users: Owner, Employee, and Customers. The application uses MySQL as the database and GUNA UI (version: 2.0.4.4) as the UI library, providing a modern and user-friendly interface.
 
 ## App Screenshot
-<a href="https://ibb.co/fSSSVhn"><img src="https://i.ibb.co/hMMMxPZ/Screenshot-2024-01-02-222621.png" alt="Screenshot-2024-01-02-222621" border="0"></a>
-<a href="https://ibb.co/LS1bGMq"><img src="https://i.ibb.co/7vK89HT/Screenshot-2024-01-02-222403.png" alt="Screenshot-2024-01-02-222403" border="0"></a>
-<a href="https://ibb.co/ZWVVjG9"><img src="https://i.ibb.co/Gc006nm/Screenshot-2024-01-02-222802.png" alt="Screenshot-2024-01-02-222802" border="0"></a>
-<a href="https://ibb.co/YR5njpG"><img src="https://i.ibb.co/DVBcK5n/Screenshot-2024-01-02-223016.png" alt="Screenshot-2024-01-02-223016" border="0"></a>
-<a href="https://ibb.co/N1VQSQ7"><img src="https://i.ibb.co/mvD181S/Screenshot-2024-01-02-222441.png" alt="Screenshot-2024-01-02-222441" border="0"></a>
-<a href="https://ibb.co/k1ThGxj"><img src="https://i.ibb.co/fvWCX2f/Screenshot-2024-01-02-223235.png" alt="Screenshot-2024-01-02-223235" border="0"></a>
+
+<p align="center">
+    <img src="https://i.ibb.co/hMMMxPZ/Screenshot-2024-01-02-222621.png" alt="Screenshot-2024-01-02-222621">
+    <img src="https://i.ibb.co/7vK89HT/Screenshot-2024-01-02-222403.png" alt="Screenshot-2024-01-02-222403">
+    <img src="https://i.ibb.co/Gc006nm/Screenshot-2024-01-02-222802.png" alt="Screenshot-2024-01-02-222802">
+    <img src="https://i.ibb.co/DVBcK5n/Screenshot-2024-01-02-223016.png" alt="Screenshot-2024-01-02-223016">
+    <img src="https://i.ibb.co/mvD181S/Screenshot-2024-01-02-222441.png" alt="Screenshot-2024-01-02-222441">
+    <img src="https://i.ibb.co/fvWCX2f/Screenshot-2024-01-02-223235.png" alt="Screenshot-2024-01-02-223235">
+</p>
 
 ## Features
 
