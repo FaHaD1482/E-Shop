@@ -5,12 +5,12 @@ This C# based Shopping application is designed for three types of users: Owner, 
 ## App Screenshot
 
 <p align="center">
-    <img src="https://i.ibb.co/hMMMxPZ/Screenshot-2024-01-02-222621.png" alt="Screenshot-2024-01-02-222621">
-    <img src="https://i.ibb.co/7vK89HT/Screenshot-2024-01-02-222403.png" alt="Screenshot-2024-01-02-222403">
-    <img src="https://i.ibb.co/Gc006nm/Screenshot-2024-01-02-222802.png" alt="Screenshot-2024-01-02-222802">
-    <img src="https://i.ibb.co/DVBcK5n/Screenshot-2024-01-02-223016.png" alt="Screenshot-2024-01-02-223016">
-    <img src="https://i.ibb.co/mvD181S/Screenshot-2024-01-02-222441.png" alt="Screenshot-2024-01-02-222441">
-    <img src="https://i.ibb.co/fvWCX2f/Screenshot-2024-01-02-223235.png" alt="Screenshot-2024-01-02-223235">
+    <img src="Images/1.png" alt="Screenshot-2024-01-02-222621">
+    <img src="Images/2.png" alt="Screenshot-2024-01-02-222403">
+    <img src="Images/3.png" alt="Screenshot-2024-01-02-222802">
+    <img src="Images/4.png" alt="Screenshot-2024-01-02-223016">
+    <img src="Images/5.png" alt="Screenshot-2024-01-02-222441">
+    <img src="Images/6.png" alt="Screenshot-2024-01-02-223235">
 </p>
 
 ## Features
